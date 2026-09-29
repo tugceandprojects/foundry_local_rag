@@ -1,0 +1,16 @@
+openai<3,>=2.24
+pypdf<6,>=5
+
+[cross-platform]
+foundry-local-sdk
+
+[dev]
+pytest<9,>=8.3
+ruff<1,>=0.11
+fpdf2<3,>=2.7
+
+[ui]
+streamlit<2,>=1.45
+
+[windows]
+foundry-local-sdk-winml

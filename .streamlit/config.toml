@@ -1,0 +1,10 @@
+[theme]
+base = "light"
+primaryColor = "#16223B"
+backgroundColor = "#F2F4F8"
+secondaryBackgroundColor = "#E8ECF4"
+textColor = "#16223B"
+
+[browser]
+# Veriler cihazdan çıkmasın: Streamlit kullanım istatistiği göndermesin.
+gatherUsageStats = false
